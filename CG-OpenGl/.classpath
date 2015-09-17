@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Amit/Desktop/CGMIDTERM/PRG4/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amit/Desktop/CGMIDTERM/PRG4/gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amit/Desktop/CGMIDTERM/PRG4/jogl-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amit/Desktop/CGMIDTERM/PRG4/jogl-all-natives-windows-i586.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
